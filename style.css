@@ -1,0 +1,16 @@
+body{background-color: #c2e9f0; text-align: center; padding: }
+h1{color: #0065ff;
+	font-family: Futura;
+	font-size: 45px;
+	font-style: italic;
+	background-color: #a5e7ff;
+	text-align: center;
+	paddinf: 15px;
+	margin-left: 200px;
+	margin-right: 200px;}
+p{color: #057b7a;
+	font-family: EB Garamond;
+	font-size: 18px;
+img{border-style: double;
+	border-width: 20px;
+	border-color: #057b7a;}
